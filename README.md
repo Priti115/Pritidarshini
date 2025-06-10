@@ -1,50 +1,76 @@
-# 💼 Pritidarshini Biswal's Portfolio
+<!-- 🎉 Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff4b2b,ff416c&height=200&section=header&text=Welcome%20to%20My%20Portfolio%20👩‍💻&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Pritidarshini%20Biswal%20|%20Data%20Scientist%20in%20Making&descAlignY=65&descAlign=50" />
+</p>
 
-Welcome to my personal **animated and interactive** portfolio website!  
-This website is built to **showcase my skills, projects, resume**, and more — with smooth transitions and elegant animations to make it visually engaging and memorable.
-
-🔗 **Live Site**: [Visit Portfolio](https://euphonious-treacle-8c4965.netlify.app/)
-
----
-
-## 📌 Sections (with Animations)
-
-- **🏠 Home**: Hero section with a fade-in title, glowing text effects, and bounce-in scroll arrows.
-- **🙋‍♀️ About**: Slide-in bio content with animated cards showing background and goals.
-- **💻 Skills**: Hover-zoom icons and animated bars indicating proficiency in tools like Python, SQL, Power BI, etc.
-- **📊 Projects**: Scroll-triggered reveal of my top data analytics projects.
-- **📄 Resume**: Smooth flip animation on the download button with scaling hover effects.
-- **📬 Contact**: Floating social icons and an animated contact form that slides in.
+<!-- ✍️ Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF4B2B&center=true&width=600&lines=Hi+There+👋+I'm+Pritidarshini+Biswal!;A+Passionate+Data+Science+Explorer.;Python+|+SQL+|+Power+BI+|+Machine+Learning;React+Portfolio+with+Smooth+Animations+💻" />
+</p>
 
 ---
 
-## 🌟 Animated Features
+## 📌 Portfolio Overview
 
-✨ Built using modern animation techniques:
-- **Framer Motion** for scroll-based section transitions
-- **Animate.css** for entrance effects like `fadeIn`, `zoomIn`, and `slideIn`
-- **Tailwind CSS transitions** for hover effects and responsiveness
-- **React Icons** with hover scale and bounce
+Welcome to my personal **React + Tailwind portfolio website** — crafted to represent who I am, what I do, and how I love turning data into stories.  
+The site features **smooth transitions**, **animated cards**, and an elegant UI for showcasing my career journey and skills.
 
----
-
-## 🛠️ Technologies Used
-
-| Technology       | Purpose                              |
-|------------------|---------------------------------------|
-| `React.js`       | Component-based structure             |
-| `Tailwind CSS`   | Styling and responsive layout         |
-| `Framer Motion`  | Page and element animations           |
-| `Animate.css`    | Prebuilt entry/exit animation effects |
-| `React Icons`    | Social and skill icons                |
-| `Netlify`        | Hosting and continuous deployment     |
+🔗 **Live Portfolio**: [View Website](https://euphonious-treacle-8c4965.netlify.app/)
 
 ---
 
-## 🚀 How to Run Locally
+## 🚀 What’s Inside?
+
+| Section     | Description                                                                 |
+|-------------|-----------------------------------------------------------------------------|
+| 🏠 Home      | Hero banner with animated greeting, name, and call-to-action buttons       |
+| 👩‍💻 About     | Slide-in cards explaining my background, passions, and journey             |
+| 💡 Skills    | Hover-zoom skill badges and animated bars for technical stacks              |
+| 📊 Projects  | Flip-card style projects with tooltips and live links                       |
+| 📄 Resume    | Smooth button for resume download and highlights                           |
+| 📬 Contact   | Animated contact form and bouncing social media icons                      |
+
+---
+
+## 🧠 Technologies Used
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-EF007F?style=for-the-badge&logo=framer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+---
+
+## 🛠️ Key Features
+
+- 🎯 **Fully responsive** layout
+- 🎨 **Modern design** with Tailwind CSS
+- 🎞️ **Scroll-triggered animations** using Framer Motion
+- 🖱️ Smooth navigation and section transitions
+- 📥 Resume download with animated button
+- 🔗 Live project links and hover details
+
+---
+
+## ✨ Sneak Peek of Projects
+
+| Project | Description | Tools |
+|--------|-------------|-------|
+| 🛳️ [Titanic Survival Prediction](https://github.com/Priti115/Titanic) | EDA on Titanic dataset with visual insights | Python, Seaborn |
+| 🍕 [Pizza Sales SQL Analysis](https://github.com/Priti115/PizzaAnalysis) | SQL-based revenue and trend analytics | SQL, MySQL |
+| 📊 [HR Analytics Dashboard](https://drive.google.com/file/d/1oJ7y4gPvtip0cQ6k6vCmmyynhCNc7RdR/view) | Power BI dashboard on attrition patterns | Power BI |
+| 🛏️ [Hotel Cancellation EDA](https://github.com/Priti115/Hotel_Cancelation) | Identified booking risks | Python, Pandas |
+| 🗳️ [Election Data Analysis](https://www.canva.com/design/DAGeEPWYeuY/bLtuyRnj9DRi1RvdxE77nA/edit) | Dashboard to study voter behavior | Power BI |
+
+---
+
+## 📄 How to Run Locally
 
 ```bash
-git clone https://github.com/Priti115/your-portfolio-repo.git
-cd your-portfolio-repo
+git clone https://github.com/Priti115/Economy-Data-Analysis-USA.git
+cd your-portfolio-directory
 npm install
 npm start
