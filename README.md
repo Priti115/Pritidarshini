@@ -1,30 +1,50 @@
 # 💼 Pritidarshini Biswal's Portfolio
 
-Welcome to my personal portfolio website built to showcase my skills, projects, resume, and more. This responsive and elegant site is developed to give recruiters and collaborators a quick overview of who I am and what I do.
+Welcome to my personal **animated and interactive** portfolio website!  
+This website is built to **showcase my skills, projects, resume**, and more — with smooth transitions and elegant animations to make it visually engaging and memorable.
 
 🔗 **Live Site**: [Visit Portfolio](https://euphonious-treacle-8c4965.netlify.app/)
 
 ---
 
-## 📌 Sections
+## 📌 Sections (with Animations)
 
-- **Home**: A welcoming hero section with my name, title, and quick navigation.
-- **About**: A brief introduction about me, my educational background, and goals.
-- **Skills**: Highlights of my technical skills including Python, SQL, Power BI, and more.
-- **Projects**: Showcasing some of my major data analytics and programming projects.
-- **Resume**: Downloadable resume link and career highlights.
-- **Contact**: Get in touch via social media links or contact form.
+- **🏠 Home**: Hero section with a fade-in title, glowing text effects, and bounce-in scroll arrows.
+- **🙋‍♀️ About**: Slide-in bio content with animated cards showing background and goals.
+- **💻 Skills**: Hover-zoom icons and animated bars indicating proficiency in tools like Python, SQL, Power BI, etc.
+- **📊 Projects**: Scroll-triggered reveal of my top data analytics projects.
+- **📄 Resume**: Smooth flip animation on the download button with scaling hover effects.
+- **📬 Contact**: Floating social icons and an animated contact form that slides in.
+
+---
+
+## 🌟 Animated Features
+
+✨ Built using modern animation techniques:
+- **Framer Motion** for scroll-based section transitions
+- **Animate.css** for entrance effects like `fadeIn`, `zoomIn`, and `slideIn`
+- **Tailwind CSS transitions** for hover effects and responsiveness
+- **React Icons** with hover scale and bounce
 
 ---
 
 ## 🛠️ Technologies Used
 
-- **HTML5**
-- **CSS3**
-- **JavaScript**
-- **React.js**
-- **Tailwind CSS**
-- **Netlify** (for deployment)
+| Technology       | Purpose                              |
+|------------------|---------------------------------------|
+| `React.js`       | Component-based structure             |
+| `Tailwind CSS`   | Styling and responsive layout         |
+| `Framer Motion`  | Page and element animations           |
+| `Animate.css`    | Prebuilt entry/exit animation effects |
+| `React Icons`    | Social and skill icons                |
+| `Netlify`        | Hosting and continuous deployment     |
 
+---
 
+## 🚀 How to Run Locally
 
+```bash
+git clone https://github.com/Priti115/your-portfolio-repo.git
+cd your-portfolio-repo
+npm install
+npm start
