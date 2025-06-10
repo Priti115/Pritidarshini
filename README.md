@@ -1,6 +1,6 @@
 <!-- 🎉 Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff4b2b,ff416c&height=200&section=header&text=Welcome%20to%20My%20Portfolio%20👩‍💻&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Pritidarshini%20Biswal%20|%20Data%20Scientist%20in%20Making&descAlignY=65&descAlign=50" />
+  <img src="[https://capsule-render.vercel.app/api?type=wavin](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vagdevitechnologies.com%2Fonline-data-science-training-5%2F&psig=AOvVaw2O3fJuS9Zha8a9phCd-jfV&ust=1749657827165000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjPocCd540DFQAAAAAdAAAAABAE)&color=ff4b2b,ff416c&height=200&section=header&text=Welcome%20to%20My%20Portfolio%20👩‍💻&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Pritidarshini%20Biswal%20|%20Data%20Scientist%20&descAlignY=65&descAlign=50" />
 </p>
 
 <!-- ✍️ Typing Effect -->
